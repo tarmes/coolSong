@@ -2,6 +2,8 @@
 import CoreLayout from '../layouts/PageLayout/PageLayout'
 import Home from './Home'
 import CounterRoute from './Counter'
+//Add import
+import AboutRoute from './About'
 
 /*  Note: Instead of using JSX, we recommend using react-router
     PlainRoute objects to build route definitions.   */
